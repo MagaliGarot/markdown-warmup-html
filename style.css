@@ -20,10 +20,8 @@ table {
 }
 
 main {
-    padding: 3vw 3vw 3vw 3vw;
     margin-top: 5vw;
     border-radius:10px;
-    background: linear-gradient(to top, #CDE8F1, #FEEAF4);
 }
 
 h1 {
