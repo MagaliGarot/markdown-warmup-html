@@ -1,14 +1,14 @@
 /*general*/
 
 
-body {
+body main {
     color: gray;
     font-family: arial;
     line-height: 200%;
-    margin-left: 20%;
+    margin-top: 10%;
+    border: 1px gray;
     margin-right: 20%;
-	margin-top: 10%;
-
+    margin-left: 20%;
 }
 
 table {
